@@ -1,3 +1,0 @@
-# Stackup-Bounty
-## SuperStaking
-
